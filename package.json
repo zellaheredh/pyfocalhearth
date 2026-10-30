@@ -1,0 +1,6 @@
+# build config
+copy:
+  - src/**
+  - package.json
+cache-dir: ~/.cache
+registry: default
